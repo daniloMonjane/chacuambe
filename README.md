@@ -1,2 +1,2 @@
 # chacuambe
-primeiro repositorio de chacuambe
+primeiro repositorio de chacuambe publico
